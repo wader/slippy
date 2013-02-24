@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>levels</key>
+	<array>
+		<dict>
+			<key>added</key>
+			<date>2010-10-07T11:35:42Z</date>
+			<key>author</key>
+			<string>Mattias Wadman</string>
+			<key>data</key>
+			<string>                   OOOOO   P       O   O           O   # M M M     OO#OO           O$ $O   M       OOOOO   $                                    </string>
+			<key>email</key>
+			<string>mattias.wadman@gmail.com</string>
+			<key>height</key>
+			<integer>9</integer>
+			<key>id</key>
+			<string>tutorial</string>
+			<key>name</key>
+			<string>Game tutorial</string>
+			<key>width</key>
+			<integer>16</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

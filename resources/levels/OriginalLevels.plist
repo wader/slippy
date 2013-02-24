@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<integer>0</integer>
+	<key>levels</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>slippy1</string>
+			<key>author</key>
+			<string>Mattias Wadman</string>
+			<key>name</key>
+			<string>Level 1</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO              OO  #########   OO  #P      #   OO  #    M  # $ OO  #       #   OO  #########   OO              OOOOOOOOOOOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy2</string>
+			<key>author</key>
+			<string>Mattias Wadman</string>
+			<key>name</key>
+			<string>Level 2</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO              OO  #######  M  OO  #     #     OO  #  $  #  P  OO  #     #  O  OO  #######     OO              OOOOOOOOOOOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy3</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 3</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO$$$$$$#  #$$$$OO#######  #####OO$#    M       OO$#   O     MM OO$#            OO##   M        OO             POOOOOOOOOOOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy4</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 4</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>O#O#OOO OOOOOOOOO   O$$$$$$O O O M  OOOOOO O P #    #$$$$$$O M OOOOOOOOOOOOO   OO$$$O  O    O#OOO$OOO     M O$$O $O   O   M #$$ O$O OOO#OOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy5</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 5</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOOP     O### $O$OO M M M#O#$  O#OO   O    #OOOO$OO O      M     OO#O    M       OO$O M O        OO$O   O        OOOOOOOOOOOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy6</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 6</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOOP          #$$OOOO    M  M O$$OO$#         O$$OOOO  M    M OOOOO$#         #$$OOOO    M    O$$OO$#         O$$OOOOOOOOOOOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy7</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 7</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>O   O   O   O OO               OO              O        M    M O#O#O M M       O#$$O   ####OO  O#$$OOOOOO#O    O#$$$$$$$$$O  M O###########P  OO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy8</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 8</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOO  OOOOOOOOO          #$$$OO      MO  # M OO       M  ## #OO             POO          ####O      M    #$$$OO          #$$$OOOOOOOOOOOOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy9</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 9</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOO#OOOOOOOOP        OO$$$OO      M   #$$$OOOOOO    M OOOOOO$$$# M    M   OOOOOO#OO       OO   O$$OO      OO   O$$O$O     OOOOOOOOO$OOOOOOO</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy10</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 10</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OO   OOOOOOOOO$OOO M # O  O   #OOPM  #    #   OOO    O    O    OOO##OOO##OOO##OOO    OOMM O$$$$OOOMM #  M O$$OOO#    O    O$$O  OOOOOOOOOOOOOO O</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy11</string>
+			<key>author</key>
+			<string>Carlos Rodriguez</string>
+			<key>name</key>
+			<string>Level 11</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO$#        #$$$OO$#    P   OOOOOO$# O       #$$OO$#   M     #M$OO$# M       #O#OO$#  M MO   #$$OO$#   O     #$$OOOOOOOOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy12</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 12</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO$$$#    O$$$$$$OOOOO    OMO#OOO                OPMMMMMM     OOOOO#     O    ##OO$#OOOOOOO#OOO$OO$$$$$$O$$$$$O$OOOOOOOOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy13</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 13</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO     ##$$#$$$$OOPM MMMOOOO#OOOO$OO        M#$$#$$O   M OOM #$$O$$O     OO  OOOOOOO#O   OOM #$$O#$$##   OO  #$$$OOOOOOOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy14</string>
+			<key>author</key>
+			<string>Martin Hock</string>
+			<key>name</key>
+			<string>Level 14</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOO O       O$$$$$$$O# O  O O#O#OOO#O#  M P O #   O O       OO              O M  O  O M M   O      O M      OO          M  OOOOOOOO#OOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy15</string>
+			<key>author</key>
+			<string>Andreas Ess' brother</string>
+			<key>name</key>
+			<string>Level 15</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOO OOOOOOOOO   OOOOOOOOO  OOO        O  M OO              OO M M          OO#O#OOO        OO$$$O$O   M    OO$$$#$O        OOOOOOOO  P OOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy16</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 16</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OO      OOOOOOOO#       O$$O$#$$O  MMM  OO#OOOMO#          #$O$$O  MMM  OMMOOOOO#  MPM     O#$$$O#OOOOO#OO#O$OMO#$$M#M$#O$#O$O$$OOOOOOOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy17</string>
+			<key>author</key>
+			<string>Daniel Walls</string>
+			<key>name</key>
+			<string>Level 17</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOO    OOOOOOOOO$$O M    ##$$$OO$$#   O  ##$$$OOMOO  M   ##$$$OOP M    OO  O#OOO   M      OO#OOOOOO##OO#O#   OO$$#        M  ##OOOOOOOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy18</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 18</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOO  OO  OOOO$O$#$#       M$O#OOOOO       #$O     M    MM OOO O O           OPM M M  M  O M O#O#O#O#O     OOO$O$O$O$O     #$O$O$O$OOO  O OO$</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy19</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 19</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>POO   O$OOOOOOOO  M M O#O$$#$$$O M      OOOO##OO  M     O     OO M      O MO  OO        #     OO O   O#OOOOO   O M M O$$O$##   O     OOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy20</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 20</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>$OOOOOOOOOOOOOOO$O$#$$$#$$$O$O$O$OOO##$OOO$O$O$O$$#O##OOOOOO#O#OOO#          M O M     M  O  M OPM     O  M  M O M     O  M  M OOO             O</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy21</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 21</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>      OOOOOOOOOO MMM   ##$$#$#$O MPM M OOOOOOOOO MMM   O$##  #$O M M M OOOO  O$O       #$#   OOOOOOO M #$#  MO$OO$$#   OOO   #$OOOOOOOOOOOOOOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy22</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 22</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>      OOOOOOOOOO MMM OO#$O$#P#$O      #$OOO MO$O MOO  #$#$O  O$O M M  OOOOO##OOO M M  # M    O$O      #   M  O$O OMMOOOOO#O##O$O      O$$$O$$$$O</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy23</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 23</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOO$$$OP O O$$#$$$OOOOOMMM OOOO$$$##$$O    O$$#$$$OOOOO M  OOOO###O     OM        O         M       M       O       M     O O     O#OOOO   </string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy24</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 24</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>O$$$OOOOOOOOOOOOOO#O#        #$$O$$$#  OOOOOOOOOO#$M#  ##$#$$#$$O$$$#  OOOOOOOOOO#O#O   M M M M O$O$O         M O$O$O  MMMMMMMO OOOOO          P</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy25</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 25</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOO   O  OOOO$$O$$O      #$OOO#O$##      OOO$$$OOOO    M #MP#$$O$OO      OOMO##O$#   MM  M  O$$OOO   M  M   OO#O$#   OM M MOO$$O$O O       OOOOO</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy26</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 26</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO$$O$$$#$O$$#$$OO$$#$$$O$O$$O#$OO#OOO##OOOOOO#OOO#O$O     O   OOO$O$O MMM       OOO$O           O$#$# MOMMMMMMM OOOOOO         P</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>slippy27</string>
+			<key>author</key>
+			<string>Tae-Ho Kim</string>
+			<key>name</key>
+			<string>Level 27</string>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>9</integer>
+			<key>data</key>
+			<string>OOOOOOOOOOOOOOOOO$$##$#$$$OO$$$OO$$OO$O$$$##$$$OOOOOOOO##OOOOO#O             O#O             O$O MM          O$O   MMMM  MMM OOO               P</string>
+			<key>locked</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>

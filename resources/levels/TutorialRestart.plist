@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>	
+	<dict>
+		<key>action</key>
+		<string></string>
+		<key>delay</key>
+		<real>3.0</real>
+		<key>text</key>
+		<string>Let's restart the level.</string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<string></string>
+		<key>delay</key>
+		<real>0</real>
+		<key>text</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<string>point</string>
+		<key>delay</key>
+		<real>1</real>
+		<key>x</key>
+		<real>463</real>
+		<key>y</key>
+		<real>-12</real>
+	</dict>
+	<dict>
+		<key>action</key>
+		<string>touch</string>
+		<key>delay</key>
+		<real>0.3</real>
+		<key>x</key>
+		<real>463</real>
+		<key>y</key>
+		<real>-12</real>
+	</dict>
+	<dict>
+		<key>action</key>
+		<string>restart</string>
+		<key>delay</key>
+		<real>0</real>
+	</dict>
+	<dict>
+		<key>action</key>
+		<string>point</string>
+		<key>delay</key>
+		<real>1</real>
+		<key>x</key>
+		<real>363</real>
+		<key>y</key>
+		<real>40</real>
+	</dict>
+</array>
+</plist>

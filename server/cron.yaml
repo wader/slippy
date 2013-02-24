@@ -1,0 +1,5 @@
+cron:
+- description: update level ratings
+  url: /tasks/ratings
+  schedule: every 1 hours
+

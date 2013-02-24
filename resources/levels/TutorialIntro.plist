@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>action</key>
+		<string></string>
+		<key>delay</key>
+		<real>4.0</real>
+		<key>text</key>
+		<string>Hi, I'm Slippy!</string>
+	</dict>
+	<dict>
+		<key>action</key>
+		<string></string>
+		<key>delay</key>
+		<real>5.0</real>
+		<key>text</key>
+		<string>Let me show you how to play.</string>
+	</dict>
+</array>
+</plist>

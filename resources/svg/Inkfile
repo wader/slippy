@@ -1,0 +1,95 @@
+
+out: ../
+
+appimages/Icon[@2x|~ipad=72x72|@2x~ipad=144x144].png icon.svg
+appimages/Icon-Small[@2x].png 29uux29uu icon.svg
+appimages/Icon-Small-50[@2x].png 50uux50uu icon.svg
+appimages/Icon-72[@2x].png 72uux72uu icon.svg
+appimages/iTunesArtwork[@2x] icon.svg 512uux512uu png
+appimages/appstore[@2x].png icon.svg 512uux512uu
+appimages/Default[@2x=*2,right|~ipad=1024x1004,right|@2x~ipad=2048x2008,right].png background.svg right
+appimages/Default-Landscape[@2x|~ipad=1024x768|@2x~ipad=2048x1536].png background.svg
+
+images/tiles/normal/block[@2x|~ipad=256x222|@2x~ipad=512x444].png tiles/block.svg
+images/tiles/normal/block-mask[@2x|~ipad=256x222|@2x~ipad=512x444].png tiles/block-mask.svg
+images/tiles/normal/solid[@2x|~ipad=256x222|@2x~ipad=512x444].png tiles/solid.svg
+images/tiles/normal/player[@2x|~ipad=64x74|@2x~ipad=128x148].png tiles/player.svg
+images/tiles/normal/moveable[@2x|~ipad=64x74|@2x~ipad=128x148].png tiles/moveable.svg
+images/tiles/normal/score[@2x|~ipad=64x296|@2x~ipad=128x592].png tiles/score.svg
+
+images/tiles/preview/block[@2x|~ipad=*2|@2x~ipad=*4].png tiles/block.svg 32uu*24uu
+images/tiles/preview/solid[@2x|~ipad=*2|@2x~ipad=*4].png tiles/solid.svg 32uu*24uu
+images/tiles/preview/player[@2x|~ipad=*2|@2x~ipad=*4].png tiles/player.svg 8uu*8uu
+images/tiles/preview/moveable[@2x|~ipad=*2|@2x~ipad=*4].png tiles/moveable.svg 8uu*8uu
+images/tiles/preview/score[@2x|~ipad=*2|@2x~ipad=*4].png tiles/score.svg 8uu*32uu
+
+images/player-frames[@2x|~ipad=784x283|@2x~ipad=1584x576].png
+images/background[@2x|~ipad=1024x768|@2x~ipad=2048x1536].png
+images/water[@2x|~ipad=1024x768|@2x~ipad=2048x1536].png
+images/slippy[@2x|~ipad=378x120|@2x~ipad=757x240].png
+
+images/scale-bars[@2x|~ipad=*2|@2x~ipad=*4].png
+images/scale-fade[@2x|~ipad=*2|@2x~ipad=*4].png
+images/music[@2x|~ipad=*2|@2x~ipad=*4].png
+images/effect[@2x|~ipad=*2|@2x~ipad=*4].png
+images/restart[@2x|~ipad=*2|@2x~ipad=*4].png
+images/undo[@2x|~ipad=*2|@2x~ipad=*4].png
+images/left[@2x|~ipad=*2|@2x~ipad=*4].png
+images/right[@2x|~ipad=*2|@2x~ipad=*4].png
+images/play[@2x|~ipad=*2|@2x~ipad=*4].png
+images/delete[@2x|~ipad=*2|@2x~ipad=*4].png
+images/plus[@2x|~ipad=*2|@2x~ipad=*4].png
+images/erase[@2x|~ipad=*2|@2x~ipad=*4].png
+images/solid[@2x|~ipad=*2|@2x~ipad=*4].png
+images/block[@2x|~ipad=*2|@2x~ipad=*4].png
+images/moveable[@2x|~ipad=*2|@2x~ipad=*4].png
+images/score[@2x|~ipad=*2|@2x~ipad=*4].png
+images/player[@2x|~ipad=*2|@2x~ipad=*4].png
+images/upload[@2x|~ipad=*2|@2x~ipad=*4].png
+images/upload-sun[@2x|~ipad=*2|@2x~ipad=*4].png
+images/upload-rain[@2x|~ipad=*2|@2x~ipad=*4].png
+images/upload-check[@2x|~ipad=*2|@2x~ipad=*4].png
+images/download[@2x|~ipad=*2|@2x~ipad=*4].png
+images/download-sun[@2x|~ipad=*2|@2x~ipad=*4].png
+images/download-rain[@2x|~ipad=*2|@2x~ipad=*4].png
+images/close[@2x|~ipad=*2|@2x~ipad=*4].png
+
+images/check[@2x|~ipad=*2|@2x~ipad=*4].png
+images/dot[@2x|~ipad=*2|@2x~ipad=*4].png
+images/new[@2x|~ipad=*2|@2x~ipad=*4].png
+
+images/dpad-icon[@2x|~ipad=*2|@2x~ipad=*4].png
+images/disable[@2x|~ipad=*2|@2x~ipad=*4].png
+images/dpad-touch[@2x|~ipad=85x85|@2x~ipad=170x170].png
+images/dpad[@2x|~ipad=200x200|@2x~ipad=400x400].png
+
+images/stars-empty[@2x|~ipad=*2|@2x~ipad=*4].png
+images/stars-full[@2x|~ipad=*2|@2x~ipad=*4].png
+images/stars-half[@2x|~ipad=*2|@2x~ipad=*4].png
+images/stars-border-empty[@2x|~ipad=*2|@2x~ipad=*4].png
+images/stars-border-full[@2x|~ipad=*2|@2x~ipad=*4].png
+images/stars-border-half[@2x|~ipad=*2|@2x~ipad=*4].png
+images/big-stars-empty[@2x|~ipad=*2|@2x~ipad=*4].png stars-empty.svg 40uux40uu
+images/big-stars-full[@2x|~ipad=*2|@2x~ipad=*4].png stars-full.svg 40uux40uu
+images/big-stars-half[@2x|~ipad=*2|@2x~ipad=*4].png stars-half.svg 40uux40uu
+
+images/big-stars-border-empty[@2x|~ipad=*2|@2x~ipad=*4].png stars-border-empty.svg 40uux40uu
+images/big-stars-border-full[@2x|~ipad=*2|@2x~ipad=*4].png stars-border-full.svg 40uux40uu
+images/big-stars-border-half[@2x|~ipad=*2|@2x~ipad=*4].png stars-border-half.svg 40uux40uu
+
+images/menu-overlay[@2x|~ipad=1024x768|@2x~ipad=2048x1536].png
+
+images/menu-about[@2x|~ipad=*2|@2x~ipad=*4].png
+images/menu-play[@2x|~ipad=*2|@2x~ipad=*4].png
+images/menu-tutorial[@2x|~ipad=*2|@2x~ipad=*4].png
+images/menu-your-levels[@2x|~ipad=*2|@2x~ipad=*4].png
+images/menu-slippy[@2x|~ipad=*2|@2x~ipad=*4].png
+images/menu-slippy-blink[@2x|~ipad=*2|@2x~ipad=*4].png
+
+images/hand-point[@2x|~ipad=*2|@2x~ipad=*4].png
+images/hand-touch[@2x|~ipad=*2|@2x~ipad=*4].png
+
+images/original[@2x|~ipad=*2|@2x~ipad=*4].png
+images/community[@2x|~ipad=*2|@2x~ipad=*4].png
+images/completed[@2x|~ipad=*2|@2x~ipad=*4].png
+

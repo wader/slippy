@@ -1,0 +1,38 @@
+application: slippyapp
+version: 2
+runtime: python
+api_version: 1
+
+builtins:
+- remote_api: on
+- appstats: on
+
+skip_files:
+- ^(.*/)?app\.yaml
+- ^(.*/)?app\.yml
+- ^(.*/)?index\.yaml
+- ^(.*/)?index\.yml
+- ^(.*/)?#.*#
+- ^(.*/)?.*~
+- ^(.*/)?.*\.py[co]
+- ^(.*/)?.*/RCS/.*
+- ^(.*/)?\..*
+- ^(.*/)?.*\.svg$
+
+handlers:
+- url: /stats
+  script: stats.py
+  login: admin
+- url: /api/.*
+  script: api.py
+- url: /tasks/.*
+  script: tasks.py
+  login: admin
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+- url: /
+  static_dir: static/
+
+
+
