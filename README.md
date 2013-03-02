@@ -8,6 +8,9 @@ needs your help to catch fish. It is available for free in the app store, just s
 It was my first experience with iOS and Objective-C so it should probably not
 be consider a source of good practices :)
 
+For convenience there is a
+[web page for showing all the SVG files](http://wader.github.com/slippy/resources/svg/all.html).
+
 ## Building
 
 First generate all image resources from the SVG files. You do this by installing
