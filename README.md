@@ -9,7 +9,7 @@ It was my first experience with iOS and Objective-C so it should probably not
 be consider a source of good practices :)
 
 For convenience there is a
-[page showing all the SVG files](http://wader.github.com/slippy/resources/svg/all.md).
+[page showing all the SVG files](resources/svg/all.md).
 
 ## Building
 
